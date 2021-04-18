@@ -22,3 +22,11 @@
 > - Después de evaluar cada envío, se mostrará el resumen de puntajes y
 > veredictos para cada grupo de casos.
 >
+## RESULTADOS
+>
+> Solo logré resolver el primer ejercicio pero con un resultado de 50/100 puntos
+> debido a problemas de TLE.
+>
+> Después intenté resolver el problema C, pero no lo logré. Me empecé a
+> confundir y ya no logré terminar.
+> 
