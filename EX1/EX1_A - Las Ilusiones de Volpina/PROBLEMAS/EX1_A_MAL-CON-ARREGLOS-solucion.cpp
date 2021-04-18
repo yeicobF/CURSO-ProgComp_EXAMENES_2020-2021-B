@@ -1,6 +1,9 @@
 // - Domingo, 18 de abril del 2021 [01:30PM]
 // [2020-2021/B]
 // - [EXAMEN 1 - A] Las Ilusiones de Volpina
+// 
+// - [03:01PM]: Me imprimía basura, y creo que es por utilizar arreglos sin
+// inicializar, así que los cambiaré por vectores.
 //
 // - TYPES OF VALUES
 // 
@@ -44,6 +47,7 @@ int main() {
     // int: -2B <-> 2B
     // 
     // [person = a] en el ejercicio, pero así se me hace más significativo.
+    
     int person[n]; // ME IMPRIME BASURA EL ARREGLO. LO CAMBIARÉ POR VECTOR.
 
     for (int i = 0; i < n; i++)
