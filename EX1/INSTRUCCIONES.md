@@ -4,9 +4,9 @@
 >
 ## INSTRUCCIONES Yoguel por Teams
 >
-> <cite> "[...] a partir de que lo empiecen tienen 5 horas para resolver 4 problemas,
-> el examen va a estar disponible hasta el domingo. Tener al menos un punto en
-> este examen es requisito para acreditar este curso". </cite>
+> <cite> "[...] a partir de que lo empiecen tienen 5 horas para resolver 4
+> problemas, el examen va a estar disponible hasta el domingo. Tener al menos un
+> punto en este examen es requisito para acreditar este curso". </cite>
 >
 ## ENLACE
 >
