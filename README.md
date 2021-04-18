@@ -8,11 +8,9 @@
 >
 > ### **FECHA EN QUE LO INICIÉ**
 >
-> <br>
 >
 > > - **Domingo, 18 de ABRIL del 2021 [1PM]**
 >
-> <br>
 >
 > ### **CARPETA**
 >
